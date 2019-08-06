@@ -17,6 +17,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "068QueensPuzzle", "068Queen
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "07FindAllPaths", "07FindAllPaths\07FindAllPaths.csproj", "{9DCB8587-8046-4124-B0FE-6A65E0E4407C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07FindAllPaths.Net", "07FindAllPaths.Net\07FindAllPaths.Net.csproj", "{CF9322F8-6EBB-4933-BC1F-2D1407F356F4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{9DCB8587-8046-4124-B0FE-6A65E0E4407C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9DCB8587-8046-4124-B0FE-6A65E0E4407C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9DCB8587-8046-4124-B0FE-6A65E0E4407C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CF9322F8-6EBB-4933-BC1F-2D1407F356F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF9322F8-6EBB-4933-BC1F-2D1407F356F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF9322F8-6EBB-4933-BC1F-2D1407F356F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF9322F8-6EBB-4933-BC1F-2D1407F356F4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
